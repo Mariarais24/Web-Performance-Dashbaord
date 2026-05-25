@@ -33,7 +33,7 @@ Diagnose whether page performance was the root cause of low conversions, identif
 
 **Page 1  Executive Overview**
 
-![Executive Overview](https://raw.githubusercontent.com/Mariarais24/ecommerce-analytics-powerbi/main/executive-overview.png)
+![Executive Overview](https://github.com/Mariarais24/Web-Performance-Dashbaord/blob/main/executive-overview.png)
 
 The entry point for any stakeholder asking "should we be worried?" Five KPIs surface the headline story immediately — 900 sessions, 2.22% conversion rate, 37.50% checkout abandonment, 4.5 sec average page load time. A color-coded bar chart (red = critical, yellow = monitor, green = healthy) shows all top pages breaching the 3-second load time threshold. The purchase funnel makes the drop-off undeniable: 900 sessions enter, only 20 convert. The Key Findings panel on the right delivers the verdict plainly — *traffic isn't the problem, performance is silently killing conversions.*
 
@@ -41,7 +41,7 @@ The entry point for any stakeholder asking "should we be worried?" Five KPIs sur
 
 **Page 2  Session-Level Analysis**
 
-![Session Analysis](https://raw.githubusercontent.com/Mariarais24/ecommerce-analytics-powerbi/main/Session-analysis.png)
+![Session Analysis](https://github.com/Mariarais24/Web-Performance-Dashbaord/blob/main/Sessions.png)
 
 Examines how performance is affecting user behavior across devices and traffic sources. The slow session rate sits at 12.33% — above the 8% industry benchmark. Mobile drives the highest slow session rate at 15.6%. Organic traffic drives the longest sessions (4.1 min) while Direct traffic averages just 0.7 min, the shortest by far and the highest bounce risk at 50%. The verdict: performance issues aren't just technical, they're directly shaping how users experience the site.
 
@@ -49,7 +49,7 @@ Examines how performance is affecting user behavior across devices and traffic s
 
 **Page 3  Page-Level Performance**
 
-![Page Level Performance](https://raw.githubusercontent.com/Mariarais24/ecommerce-analytics-powerbi/main/page-performance.png)
+![Page Level Performance](https://github.com/Mariarais24/Web-Performance-Dashbaord/blob/main/page-performance.png)
 
 Identifies which pages are creating friction and should be fixed first. Product page has the highest exit rate at 83%, users are leaving at the exact moment they should be adding to cart. Home page has the slowest load time at 4.7 seconds, meaning users form a bad first impression before seeing any products. A combo chart overlays load time and time spent per page, showing that faster pages retain users longer. The verdict: fix the product page first.
 
@@ -57,7 +57,7 @@ Identifies which pages are creating friction and should be fixed first. Product 
 
 **Page 4  Checkout & Conversion Analysis**
 
-![Checkout and Conversion](https://raw.githubusercontent.com/Mariarais24/ecommerce-analytics-powerbi/main/checkout-conversion.png)
+![Checkout and Conversion](https://github.com/Mariarais24/Web-Performance-Dashbaord/blob/main/conversion.png)
 
 Answers the critical question: is performance actually affecting revenue, not just engagement? Checkout abandonment is 37.50% and product exit rate is 82.73%. A scatter plot of page load time vs conversion rate by page makes the relationship visual, pages above 4 seconds convert at near 0%, consistently. UAE drives the highest conversion at 5.6%. The Key Findings panel confirms the verdict: *performance is contributing to direct revenue loss, not just poor UX. Optimization = business ROI.*
 
